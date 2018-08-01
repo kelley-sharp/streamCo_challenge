@@ -1,0 +1,9 @@
+.links {
+  margin: 2em;
+}
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
